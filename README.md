@@ -1,2 +1,3 @@
 # ATM-Application
-With this Application you will be able to access a user interface (Using the ID created and the Pin 1234) that will allow you to make virtual deposits, withdrawals, and transfers like a real bank account
+With this Application you will be able to access a user interface that will allow you to make virtual deposits, withdrawals, and transfers like a real bank account. When first running the program the computer will create a user, John Doe, and a random Id. Plug in this ID where it prompts and put in the pin 1234. From there you are able to access the checking and savings accounts of your person. Now you are able to withdraw and deposit money in both of the accounts, and transfer money between the 2 accounts. Lastly, you are to check the transfer history of both of the accounts.
+ 
